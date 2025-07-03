@@ -34,7 +34,7 @@ Por que incluir?
 
 2. Matemática Computacional
 
-    Fibonacci Recursico: Geração da sequência com loops.
+    Torres de Hanoi Recursico: Geração da sequência com loops.
 
     Fatorial: Versões iterativa e recursiva.
 
