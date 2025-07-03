@@ -14,8 +14,9 @@ Este repositório contém implementações de algoritmos clássicos em Assembly 
 Lista de Algoritmos (ARM e MIPS):
 
 1. Busca e Ordenação
+Merge Sort:
 
-Merge Sort:Descrição:
+Descrição:
 Algoritmo de ordenação divide-and-conquer que:
     Divide o array em duas metades recursivamente.
     Combina as metades ordenadas em um único array.
